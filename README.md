@@ -5,7 +5,7 @@
 ## ✨ Features
 
 - **Real-Time Messaging:** Instant messaging using WebSockets (Socket.io) for seamless communication.
-- **User Authentication:** Secure signup/login with hashed passwords (bcrypt) and JWT-based token management.
+- **User Authentication:** Built secure signup/login with bcrypt password hashing and token-based authentication.
 - **Responsive Design:** Built with Material-UI, ensuring smooth experience across devices.
 - **Scalable Architecture:** Uses Node.js, Express.js, and MongoDB for efficient, real-time operations.
 
