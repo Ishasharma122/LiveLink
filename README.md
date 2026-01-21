@@ -14,5 +14,5 @@
 - **Frontend:** React.js, Material-UI, Axios, React Router
 - **Backend:** Node.js, Express.js, Socket.io
 - **Database:** MongoDB, Mongoose
-- **Authentication:** JWT, bcrypt
+- **Authentication:** bcrypt
 
